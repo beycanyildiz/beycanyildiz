@@ -1,12 +1,10 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4279933" style='border:none;'></iframe>
-
 <h1 align="left">Hi there 👋 I'm Beycan!</h1>
 
 ###
 
 <div align="left">
   <a href="https://tryhackme.com/p/YilB" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic&height=35" alt="tryhackme badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/YilB.png" alt="TryHackMe Badge" />
   </a>
 </div>
 
