@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋 I'm Beycan!</h1>
 
-<h1 align="left">Hi there 👋 I'm Beycan! <a href="https://tryhackme.com/p/YilB" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Level%208-88cc14?style=flat-square&logo=tryhackme&logoColor=white" align="right"></a></h1>
+
 
 ###
 
